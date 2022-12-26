@@ -1,2 +1,2 @@
-# DT
-Plateforme pour la gestion des dérangements 
+# DEV_MO
+Devoir de cours
